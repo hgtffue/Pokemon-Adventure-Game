@@ -1,0 +1,11 @@
+Normal Ball,一般精靈球
+Great Ball,高級精靈球
+Master Ball,超級精靈球
+Normal Potion,一般藥水
+Great Potion,高級藥水
+Master Potion,超級藥水
+Normal Apple,一般經驗果
+Great Apple,高級經驗果
+Capture Charm,捕捉幸運符
+Battle Charm,戰鬥幸運符
+Reward Charm,獎勵符
